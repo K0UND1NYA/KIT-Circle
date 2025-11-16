@@ -1,11 +1,11 @@
 import './App.css'
-
+import LandingPage from './components/Landing'
 function App() {
  
 
   return (
     <>
-       <h1>Jai Sri Ram</h1>
+       <LandingPage />
     </>
   )
 }
